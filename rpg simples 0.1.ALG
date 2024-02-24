@@ -1,11 +1,11 @@
 Algoritmo "Projeto RPG Simples"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 23/02/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
 nick : caractere
 classe : inteiro
@@ -16,17 +16,17 @@ ast, ata, aal : inteiro
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
-escreval ("---------------------- Ruínas do Castelo ----------------------")
-escreval ("???: Você finalmente acordou... qual seu nome?")
+escreval ("---------------------- RuÃ­nas do Castelo ----------------------")
+escreval ("???: VocÃª finalmente acordou... qual seu nome?")
 leia (nick)
 limpatela
 
-escreval ("---------------------- Ruínas do Castelo ----------------------")
+escreval ("---------------------- RuÃ­nas do Castelo ----------------------")
 escreva ("???: Entendo... ")
 escreval (nick)
-escreval ("???: Você foi designado para um bem maior. Mas primeiramente, escolha sua classe.")
+escreval ("???: VocÃª foi designado para um bem maior. Mas primeiramente, escolha sua classe.")
 escreval (" ")
 escreval (" ")
 escreval (" ")
@@ -34,7 +34,7 @@ escreval ("----------------------<      Classes      >----------------------")
 escreval (" ")
 escreval ("       Guerreiro      |       Mago       |    Assassino          ")
 escreval (" ")
-escreval ("      - Força : 9     |  - Força : 3     |   - Força : 6          ")
+escreval ("      - ForÃ§a : 9     |  - ForÃ§a : 3     |   - ForÃ§a : 6          ")
 escreval ("      - Talento : 5   |  - Talento : 9   |   - Talento : 4          ")
 escreval ("      - Agilidade : 4 |  - Agilidade : 6 |   - Agilidade : 9          ")
 
